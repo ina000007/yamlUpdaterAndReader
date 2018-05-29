@@ -1,0 +1,13 @@
+version: 1.0
+released: 2012-11-30T00:00:00Z
+connection:
+  url:
+    url1:
+      url11:
+        url111: www.google.com
+  poolSize: 5
+protocols:
+  ftp: val1
+users:
+  tom: '1111111'
+  bob: passwd
